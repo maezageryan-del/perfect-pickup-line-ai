@@ -1,7 +1,8 @@
 # The Perfect Pickup Line
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
-[![bounty](https://img.shields.io/badge/bounty-u--pucuys--the--perfect--pickup--line--f6725cf6-7c3aed)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/maezageryan-del/perfect-pickup-line-ai/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/maezageryan-del/perfect-pickup-line-ai/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 
 Entry for the make.fun bounty
 [The Perfect Pickup Line](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
